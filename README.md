@@ -42,13 +42,35 @@ Practice and learn basic security commands in a simulated terminal environment.
 
 ## 📁 Project Structure
 
-<pre> ```text app/ └── src/ └── main/ ├── java/com/sanjana/cyberguard/ │ ├── RegisterActivity.kt # User registration logic │ ├── LoginActivity.kt # User login & auth │ ├── QuizActivity.kt # Quiz logic and UI │ ├── ChatbotActivity.kt # AI-based chatbot interface │ ├── TerminalActivity.kt # Simulated terminal emulator │ ├── NewsActivity.kt # Live cybersecurity news feed │ ├── SecurityCheckup.kt # Device vulnerability scan │ ├── TrackerActivity.kt # Cyber hygiene tracker │ └── utils/ # Helper classes & utils ├── res/ │ ├── layout/ # All XML layout files │ ├── drawable/ # Icons, background images │ └── values/ # Colors, strings, styles └── AndroidManifest.xml # App manifest screenshots/ # App UI preview images ├── login.png ├── chatbot.png └── quiz.png google-services.json # Firebase config build.gradle # Gradle build (Project-level) app/build.gradle # Gradle build (App-level) README.md # Project documentation LICENSE # License information ``` </pre>
-
-📄 google-services.json                         # Firebase config
-📄 build.gradle                                 # Gradle build (Project-level)
-📄 app/build.gradle                             # Gradle build (App-level)
-📄 README.md                                    # Project documentation
-📄 LICENSE                                      # License information
+CyberGuard/
+├── app/
+│   └── src/
+│       └── main/
+│           ├── java/com/sanjana/cyberguard/      # Kotlin source files
+│           │   ├── RegisterActivity.kt           # User registration logic
+│           │   ├── LoginActivity.kt              # User login & auth
+│           │   ├── QuizActivity.kt               # Quiz logic and UI
+│           │   ├── ChatbotActivity.kt            # AI-based chatbot interface
+│           │   ├── TerminalActivity.kt           # Simulated terminal emulator
+│           │   ├── NewsActivity.kt               # Live cybersecurity news feed
+│           │   ├── SecurityCheckup.kt            # Device vulnerability scan
+│           │   ├── TrackerActivity.kt            # Cyber hygiene tracker
+│           │   └── utils/                         # Helper classes & utils
+│           ├── res/
+│           │   ├── layout/                        # All XML layout files
+│           │   ├── drawable/                      # Icons, background images
+│           │   └── values/                        # Colors, strings, styles
+│           └── AndroidManifest.xml               # App manifest
+├── screenshots/                                   # App UI preview images
+│   ├── login.png
+│   ├── chatbot.png
+│   ├── quiz.png
+│   └── tracker.png
+├── google-services.json                           # Firebase config
+├── build.gradle                                   # Gradle build (Project-level)
+├── app/build.gradle                               # Gradle build (App-level)
+├── README.md                                      # Project documentation
+└── LICENSE                                        # License information
 
 ---
 
