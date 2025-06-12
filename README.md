@@ -42,7 +42,7 @@ Practice and learn basic security commands in a simulated terminal environment.
 
 ## 📁 Project Structure
 
-CyberGuard/
+CyberGuard/<br>
 ├── app/
 │   └── src/
 │       └── main/
