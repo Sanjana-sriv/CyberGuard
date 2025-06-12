@@ -46,31 +46,31 @@ CyberGuard/<br>
 ├── app/<br>
 │   └── src/<br>
 │       └── main/<br>
-│           ├── java/com/sanjana/cyberguard/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Kotlin source files<br>
-│           │   ├── RegisterActivity.kt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# User registration logic<br>
-│           │   ├── LoginActivity.kt              # User login & auth<br>
-│           │   ├── QuizActivity.kt               # Quiz logic and UI<br>
-│           │   ├── ChatbotActivity.kt            # AI-based chatbot interface<br>
-│           │   ├── TerminalActivity.kt           # Simulated terminal emulator<br>
-│           │   ├── NewsActivity.kt               # Live cybersecurity news feed<br>
-│           │   ├── SecurityCheckup.kt            # Device vulnerability scan<br>
-│           │   ├── TrackerActivity.kt            # Cyber hygiene tracker<br>
-│           │   └── utils/                         # Helper classes & utils<br>
+│           ├── java/com/sanjana/cyberguard/<br>
+│           │   ├── RegisterActivity.kt<br>
+│           │   ├── LoginActivity.kt<br>
+│           │   ├── QuizActivity.kt<br>
+│           │   ├── ChatbotActivity.kt<br>
+│           │   ├── TerminalActivity.kt<br>
+│           │   ├── NewsActivity.kt<br>
+│           │   ├── SecurityCheckup.kt<br>
+│           │   ├── TrackerActivity.ktr<br>
+│           │   └── utils/<br>
 │           ├── res/<br>
-│           │   ├── layout/                        # All XML layout files<br>
-│           │   ├── drawable/                      # Icons, background images<br>
-│           │   └── values/                        # Colors, strings, styles<br>
-│           └── AndroidManifest.xml               # App manifest<br>
-├── screenshots/                                   # App UI preview images<br>
+│           │   ├── layout/<br>
+│           │   ├── drawable/<br>
+│           │   └── values/<br>
+│           └── AndroidManifest.xml<br>
+├── screenshots/<br>
 │   ├── login.png<br>
 │   ├── chatbot.png<br>
 │   ├── quiz.png<br>
 │   └── tracker.png<br>
-├── google-services.json                           # Firebase config<br>
-├── build.gradle                                   # Gradle build (Project-level)<br>
-├── app/build.gradle                               # Gradle build (App-level)<br>
-├── README.md                                      # Project documentation<br>
-└── LICENSE                                        # License information<br>
+├── google-services.json<br>
+├── build.gradle <br>
+├── app/build.gradle<br>
+├── README.md <br>
+└── LICENSE<br>
 
 ---
 
