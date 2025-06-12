@@ -46,8 +46,8 @@ CyberGuard/<br>
 ├── app/<br>
 │   └── src/<br>
 │       └── main/<br>
-│           ├── java/com/sanjana/cyberguard/      # Kotlin source files<br>
-│           │   ├── RegisterActivity.kt           # User registration logic<br>
+│           ├── java/com/sanjana/cyberguard/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Kotlin source files<br>
+│           │   ├── RegisterActivity.kt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# User registration logic<br>
 │           │   ├── LoginActivity.kt              # User login & auth<br>
 │           │   ├── QuizActivity.kt               # Quiz logic and UI<br>
 │           │   ├── ChatbotActivity.kt            # AI-based chatbot interface<br>
