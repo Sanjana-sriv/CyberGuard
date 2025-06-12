@@ -44,28 +44,28 @@ Practice and learn basic security commands in a simulated terminal environment.
 
 CyberGuard/<br>
 ├── app/<br>
-│   └── src/<br>
-│       └── main/<br>
-│           ├── java/com/sanjana/cyberguard/<br>
-│           │   ├── RegisterActivity.kt<br>
-│           │   ├── LoginActivity.kt<br>
-│           │   ├── QuizActivity.kt<br>
-│           │   ├── ChatbotActivity.kt<br>
-│           │   ├── TerminalActivity.kt<br>
-│           │   ├── NewsActivity.kt<br>
-│           │   ├── SecurityCheckup.kt<br>
-│           │   ├── TrackerActivity.ktr<br>
-│           │   └── utils/<br>
-│           ├── res/<br>
-│           │   ├── layout/<br>
-│           │   ├── drawable/<br>
-│           │   └── values/<br>
-│           └── AndroidManifest.xml<br>
+│&nbsp;└── src/<br>
+│&nbsp;&nbsp;└── main/<br>
+│&nbsp;&nbsp;&nbsp;├── java/com/sanjana/cyberguard/<br>
+│&nbsp;&nbsp;&nbsp;│&nbsp;   ├── RegisterActivity.kt<br>
+│&nbsp;&nbsp;&nbsp;│&nbsp;   ├── LoginActivity.kt<br>
+│&nbsp;&nbsp;&nbsp;│&nbsp;   ├── QuizActivity.kt<br>
+│&nbsp;&nbsp;&nbsp;│&nbsp;   ├── ChatbotActivity.kt<br>
+│&nbsp;&nbsp;&nbsp;│&nbsp;   ├── TerminalActivity.kt<br>
+│&nbsp;&nbsp;&nbsp;│&nbsp;   ├── NewsActivity.kt<br>
+│&nbsp;&nbsp;&nbsp;│&nbsp;   ├── SecurityCheckup.kt<br>
+│&nbsp;&nbsp;&nbsp;│&nbsp;   ├── TrackerActivity.ktr<br>
+│&nbsp;&nbsp;&nbsp;│&nbsp;   └── utils/<br>
+│&nbsp;&nbsp;&nbsp;├── res/<br>
+│&nbsp;&nbsp;&nbsp;│&nbsp;   ├── layout/<br>
+│&nbsp;&nbsp;&nbsp;│&nbsp;   ├── drawable/<br>
+│&nbsp;&nbsp;&nbsp;│&nbsp;   └── values/<br>
+│&nbsp;&nbsp;&nbsp;└── AndroidManifest.xml<br>
 ├── screenshots/<br>
-│   ├── login.png<br>
-│   ├── chatbot.png<br>
-│   ├── quiz.png<br>
-│   └── tracker.png<br>
+│&nbsp;   ├── login.png<br>
+│&nbsp;   ├── chatbot.png<br>
+│&nbsp;   ├── quiz.png<br>
+│&nbsp;   └── tracker.png<br>
 ├── google-services.json<br>
 ├── build.gradle <br>
 ├── app/build.gradle<br>
