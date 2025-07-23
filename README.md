@@ -9,7 +9,7 @@ CyberGuard is an Android application designed to empower users with the knowledg
 ### 🔔 Real-time Security Alerts
 Get notified about emerging cybersecurity threats and potential vulnerabilities.
 
-### 🤖 AI-based Chatbot
+### 🤖 Chatbot
 Ask security-related questions and receive instant, best-practice responses through an integrated chatbot.
 
 ### 📱 Device Security Checkup
