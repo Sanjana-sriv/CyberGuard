@@ -34,8 +34,6 @@ Practice and learn basic security commands in a simulated terminal environment.
 - *Frontend*: Kotlin (Android Studio)
 - *Backend*: Firebase Realtime Database
 - *Authentication*: Firebase (email-password based)
-- *Chatbot*: Rule-based local bot (expandable to ML-based bot)
-- *UI*: Material Design Components
 - *Dev Tools*: Android Emulator, Firebase Console
 
 ---
