@@ -19,7 +19,7 @@ Analyze device configurations and identify potential weaknesses in settings.
 Track your daily digital hygiene activities and get reminders to maintain best practices.
 
 ### ❓ Cybersecurity Quiz Module
-Test your cybersecurity knowledge with interactive, gamified quizzes.
+Test your cybersecurity knowledge with interactive quizzes.
 
 ### 📰 Cybersecurity News Feed
 Stay up-to-date with the latest cyber threats and news from trusted sources.
