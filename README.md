@@ -1,4 +1,4 @@
-# 🛡 CyberGuard - Your Digital Security Companion
+# 🛡 CyberGuard - Your Digital Shield against Cyber Threats
 
 CyberGuard is an Android application designed to empower users with the knowledge and tools needed to stay secure in the digital world. Built using *Kotlin* and *Firebase*, the app provides a holistic approach to cybersecurity awareness, threat detection, and safe browsing practices.
 
